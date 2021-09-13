@@ -1,0 +1,80 @@
+[{
+  "name": "React js",
+  "teacher": "Jhonkar Mahbub",
+  "fee":200,
+  "company":"Programming Hero",
+  "img": "./images/react.png",
+  "hours":"3"
+ },
+ {
+  "name": "Angular js",
+  "teacher": "Onno Mahbub",
+  "fee":160,
+  "company":"Onno Hero",
+  "img": "./images/angular.png",
+  "hours":"2"
+ },
+ {
+  "name": "Vue js",
+  "teacher": "Ochena Vaijan",
+  "fee":200,
+  "company":"Hoyto Hero",
+  "img": "./images/vue.png",
+  "hours":"2.5"
+ },
+ {
+  "name": "HTML5",
+  "teacher": "Jhonkar Mahbub",
+  "fee":100,
+  "company":"Programming Hero",
+  "img": "./images/html5.png",
+  "hours":"1.5"
+ },
+ {
+  "name": "CSS3",
+  "teacher": "Janina",
+  "fee":150,
+  "company":"Komuna",
+  "img": "./images/css3.png",
+  "hours":"1.5"
+ },
+ {
+  "name": "Python",
+  "teacher": "Jhonkar Mahbub",
+  "fee":250,
+  "company":"Programming Hero",
+  "img": "./images/python.png",
+  "hours":"3"
+ },
+ {
+  "name": "C#",
+  "teacher": "Leonardo",
+  "fee":200,
+  "company":"My Code",
+  "img": "./images/csharp.png",
+  "hours":"3"
+ },
+ {
+  "name": "C++",
+  "teacher": "Tom",
+  "fee":160,
+  "company":"Hanks Hero",
+  "img": "./images/c++.png",
+  "hours":"3"
+ },
+ {
+  "name": "WordPress",
+  "teacher": "Muhammad Ali",
+  "fee":70,
+  "company":"Muhammadgore Bari",
+  "img": "./images/wordpress.png",
+  "hours":"3"
+ },
+ {
+  "name": "Freelanching",
+  "teacher": "Asad Islam",
+  "fee":200,
+  "company":"Asadgore Bari",
+  "img": "./images/freelance.png",
+  "hours":"3"
+ }]

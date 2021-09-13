@@ -1,0 +1,31 @@
+.course-container{
+ background: #45C7D752;
+ padding: 5px;
+ margin: 10px;
+ border-radius: 20px;
+ border: 2px solid #45C7D7;
+ font-size: 10px;
+}
+.course-container img{
+ width: 100%;
+ border-radius: 20px;
+}
+.texr-container{
+ padding: 2px;
+ margin-top: 5px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ align-items: center;
+}
+.text-container div{
+ text-align: center;
+ width: 100%;
+}
+button{
+ padding: 10px;
+ font-size: 20px;
+ background: #45C7D7D4;
+ border-radius: 10px;
+ border: 1px solid #0AB5CA;
+}

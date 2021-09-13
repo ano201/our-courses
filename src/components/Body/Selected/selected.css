@@ -1,0 +1,14 @@
+div{
+ margin: 5px;
+}
+.selected-container{
+ border-bottom: 2px solid gray;
+ margin: 10px;
+}
+.total{
+ font-weight: bolder;
+ color: red;
+}
+a{
+ white-space: nowrap;
+}

@@ -1,0 +1,25 @@
+.header{
+ text-align: center;
+}
+.header img{
+ width: 50%;
+}
+.header ul{
+ list-style: none;
+ display: flex;
+ justify-content: space-around;
+}
+.nav{
+ background-color: #303135;
+ line-height: 40px;
+}
+a{
+ color: white;
+ text-decoration: none;
+ padding: 3px;
+ transition: 2s;
+ font-size: 25px;
+}
+a:hover{
+ background-color: gray;
+}
